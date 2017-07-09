@@ -1,6 +1,6 @@
 num1 = 1
 num2 = 2
-num3
+num3 = 0
 total = 0
 while num1+num2 < 10:
     num3 = num1 + num2
